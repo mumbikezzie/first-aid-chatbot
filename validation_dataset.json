@@ -1,0 +1,84 @@
+[
+    {
+        "input": [
+            "How do you treat Vertigo?",
+            "what to do if i get Vertigo?",
+            "Which medicine to take if I get Vertigo?",
+            "How to cure a Vertigo?"
+        ],
+        "output": "Vertigo"
+    },
+    {
+        "input": [
+            "How do you treat Bruises?",
+            "what to do if i get a Bruise?",
+            "Which medicine to take if I get a Bruise?",
+            "How to cure Bruises?"
+        ],
+        "output": "Bruises"
+    },
+    {
+        "input": [
+            "How to cure cough?",
+            "How do you treat cough?",
+            "what to do if i get a cough?",
+            "Which medicine to take if I get cough?",
+            "How do you get rid of cough?"
+        ],
+        "output": "Cough"
+    },
+    {
+        "input": [
+            "How do you treat bleeding?",
+            "what to do if i get a Bleeding?",
+            "Which medicine to take if I get bleeding?",
+            "How to cure Bleeding?"
+        ],
+        "output": "Normal Bleeding"
+    },
+    {
+        "input": [
+            "How do you treat a sprain?",
+            "what to do if i get a sprain?",
+            "Which cream to apply if i get a sprain?",
+            "Which medicine to apply if I get a sprain?"
+        ],
+        "output": "Sprains"
+    },
+    {
+        "input": [
+            "What to do if someone is Drowning?",
+            "what to do if someone drowned?",
+            "What steps to take if i see a drowning person?",
+            "How to help a drowning person?"
+        ],
+        "output": "Drowning"
+    },
+    {
+        "input": [
+            "How do you treat Heat Exhaustion?",
+            "what to do if i feel Exhausted due to heat?",
+            "Which medicine to take if I get Exhausted?",
+            "How to cure Heat Exhaustion?"
+        ],
+        "output": "Heat Exhaustion"
+    },
+    {
+        "input": [
+            "How do you treat a Poison?",
+            "what to do if i get Poison?",
+            "Which medicine to take if I am poisoned?",
+            "How to cure Poisoning?"
+        ],
+        "output": "Poison"
+    },
+    {
+        "input": [
+            "How do you treat broken Teeth ?",
+            "what to do if my Teeth got broken?",
+            "Which medicine to take if I get broken teeth?",
+            "cure broken teeth?"
+        ],
+        "output": "Teeth"
+    }
+]

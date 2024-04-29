@@ -1,0 +1,310 @@
+[
+    {
+        "input": [
+            "How do you treat a mild Fever?",
+            "what to do if i get a mild fever?",
+            "Which medicine to take if I get a mild fever?",
+            "fever"
+        ],
+        "output": "Fever"
+    },
+    {
+        "input": [
+            "How do you treat an eye Injury?",
+            "what to do if i get a eye Injury?",
+            "Which medicine to take if I injured my eye?",
+            "How to cure injured eye?"
+        ],
+        "output": "Eye Injury"
+    },
+    {
+        "input": [
+            "How do you treat Abdonominal Pain?",
+            "what to do if i get a Abdonominal Pain?",
+            "Which medicine to take if I get a Abdonominal Pain?",
+            "How to cure Abdonominal Pain?"
+        ],
+        "output": "Abdonominal Pain"
+    },
+    {
+        "input": [
+            "How do you treat Diarrhea?",
+            "what to do if i get Diarrhea?",
+            "Which medicine to take if I get Diarrhea?",
+            "How to cure Diarrhea?"
+        ],
+        "output": "Diarrhea"
+    },
+    {
+        "input": [
+            "How do you treat sore throat?",
+            "what to do if i get a sore throat?",
+            "Which medicine to take if I get a sore throat?",
+            "How to cure sore throat?"
+        ],
+        "output": "Sore Throat"
+    },
+    {
+        "input": [
+            "How do you treat Choking?",
+            "what to do if i get a Choke?",
+            "Which medicine to take if I get Choked?",
+            "How to cure Choking?"
+        ],
+        "output": "Choking"
+    },
+    {
+        "input": [
+            "How do you treat Faint?",
+            "what to do if i feel like Fainting?",
+            "Which medicine to take if I get a Faint?",
+            "How to cure Fainting?"
+        ],
+        "output": "Fainting"
+    },
+    {
+        "input": [
+            "How do you treat a wound?",
+            "what to do if i get a Wound?",
+            "Which medicine to take if I get wounded?",
+            "How to cure a wound?"
+        ],
+        "output": "Wound"
+    },
+    {
+        "input": [
+            "How do you treat Rashes?",
+            "what to do if i get a Rash?",
+            "Which medicine to take if I have a Rash?",
+            "How to cure Rash?"
+        ],
+        "output": "Rash"
+    },
+    {
+        "input": [
+            "How do you treat a Cold?",
+            "what to do if i get a mild Cold?",
+            "Which medicine to take if I have a Cold?",
+            "How to cure Cold?"
+        ],
+        "output": "Cold"
+    },
+    {
+        "input": [
+            "What to do if Cuts?",
+            "How to cure Cuts?",
+            "Which medicine to apply for Cuts?",
+            "what to apply on cuts?",
+            "Cuts"
+        ],
+        "output": "Cuts"
+    },
+    {
+        "input": [
+            "How do you treat Sun Burn?",
+            "what to do if i get a Sun Burn?",
+            "Which medicine to take if I get Sun Burn?",
+            "How to cure a Sun Burn?"
+        ],
+        "output": "Sun Burn"
+    },
+    {
+        "input": [
+            "How do you treat a strain?",
+            "what to do if i get a strain?",
+            "Which cream to apply if i get a strain?",
+            "Which medicine to apply if I get a strain?",
+            "How do you diagnose a strain?",
+            "Is heat or ice better for a pulled muscle?"
+        ],
+        "output": "Strains"
+    },
+    {
+        "input": [
+            "How do you treat Skin problems?",
+            "what to do if i get a skin allergy?",
+            "Which medicine to take if I get a skin allergy?",
+            "How to cure skin allergy?"
+        ],
+        "output": "Skin problems"
+    },
+    {
+        "input": [
+            "How to give CPR??",
+            "what to do in a CPR?",
+            "What steps to take in a CPR??",
+            "How to help a drowning person in CPR?"
+        ],
+        "output": "CPR"
+    },
+    {
+        "input": [
+            "how do you treat abrasions?",
+            "Do Abrasions cause scars?",
+            "Abrasions",
+            "what to do if abrasions?",
+            "Which medicine to apply for abrasions?",
+            "How to cure abrasions?"
+        ],
+        "output": "Abrasions"
+    },
+    {
+        "input": [
+            "How do you treat a seizure?",
+            "what to do if i get a seizure?",
+            "Which medicine to take if I get seizure?",
+            "How to cure seizure?"
+        ],
+        "output": "seizure"
+    },
+    {
+        "input": [
+            "How do you treat a Insect Bite?",
+            "what to do if a insect bites me?",
+            "Which medicine to take if I get bitten by a insect?",
+            "How to cure insect bite?"
+        ],
+        "output": "Insect Bites"
+    },
+    {
+        "input": [
+            "How do you treat Sting?",
+            "Stings",
+            "What to do if you get a sting?",
+            "Which medicine to apply if sting?"
+        ],
+        "output": "stings"
+    },
+    {
+        "input": [
+            "How do you treat a head Injury?",
+            "what to do if i get a Head Injury?",
+            "Which medicine to take if I get injured in the head?",
+            "How to cure Head Injury?"
+        ],
+        "output": "Head Injury"
+    },
+    {
+        "input": [
+            "How do you treat a Fracture?",
+            "what to do if i get a Fracture?",
+            "Which medicine to take if I have a Fracture?",
+            "How to cure a Fracture?"
+        ],
+        "output": "Fracture"
+    },
+    {
+        "input": [
+            "How to remove Splinters",
+            "How to cure Splinters?",
+            "What to do if I have splinters?",
+            "How do you bring a splinter to the surface?"
+        ],
+        "output": "Splinter"
+    },
+    {
+        "input": [
+            "How do you treat a snake bite?",
+            "what to do if i get a snake bite?",
+            "Which medicine to take if I get a snake bite?",
+            "How to cure snake bite?",
+            "i got bit by a snake"
+        ],
+        "output": "snake bite"
+    },
+    {
+        "input": [
+            "How do you treat a Pulled Muscle?",
+            "what to do if my muscle is pulled?",
+            "Which medicine to take if I got pulled muscle?",
+            "How to cure a pulled muscle?"
+        ],
+        "output": "Pulled Muscle"
+    },
+    {
+        "input": [
+            "How do you treat a mild Headache?",
+            "what to do if i get a mild Headache?",
+            "Which medicine to take if I have a mild headache?",
+            "How to cure a mild headache?"
+        ],
+        "output": "Headache"
+    },
+    {
+        "input": [
+            "How do you treat gas problems?",
+            "what to do if i have Gastrointestinal problems?",
+            "Which medicine to take if I get gas problem?",
+            "How to cure Gas problems?"
+        ],
+        "output": "Gastrointestinal problems"
+    },
+    {
+        "input": [
+            "How do you treat a bleeding nose?",
+            "what to do if i my nose is bleeding?",
+            "Which medicine to take if I get nose bleed?",
+            "How to cure nose bleeding?"
+        ],
+        "output": "nose bleed"
+    },
+    {
+        "input": [
+            "How do you treat a Frost bite?",
+            "what to do if i get a Frost bite?",
+            "Which medicine to take if I get a Frost bite?",
+            "How to cure Frost bite?"
+        ],
+        "output": "Frost bite"
+    },
+    {
+        "input": [
+            "How do you treat Heat Stroke?",
+            "what to do if i get a Heat Stroke?",
+            "Which medicine to take if I get Stroke?",
+            "How to cure a Heat Stroke?"
+        ],
+        "output": "Heat Stroke"
+    },
+    {
+        "input": [
+            "How do you treat nasal Congestion?",
+            "what to do if i get a nasal congestion?",
+            "Which medicine to take if I have a nasal congestion?",
+            "what to do if i have a blocked nose?",
+            "How do you treat a blocked nose?",
+            "How long does nasal congestion last?"
+        ],
+        "output": "Nasal Congestion"
+    },
+    {
+        "input": [
+            "How do you treat a Broken Toe?",
+            "what to do if i get a Broken Toe?",
+            "Which medicine to take if I get a Broken Toe?",
+            "How to cure Broken Toe?"
+        ],
+        "output": "Broken Toe"
+    },
+    {
+        "input": [
+            "How do you treat a chemical burn?",
+            "what to do if i get a Chemical Burn?",
+            "Which medicine to take if I get burn due to chemicals?",
+            "How to cure Chemical Burn?"
+        ],
+        "output": "Chemical Burn"
+    },
+    {
+        "input": [
+            "How do you treat a animal bite?",
+            "How do you treat a monkey bite?",
+            "How do you treat a dog bite?",
+            "what to do if i get a animal bite?",
+            "Which medicine to take if I get a monekey bite?",
+            "How to cure dog bite?",
+            "i got bit by a dog"
+        ],
+        "output": "animal bite"
+    }
+]
